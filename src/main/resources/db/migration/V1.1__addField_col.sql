@@ -1,0 +1,1 @@
+alter table user add mail varchar(128) comment '用户邮箱';
